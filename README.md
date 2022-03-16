@@ -17,8 +17,8 @@ Faça um clone desse template e acesse o diretório.
 
 ```bash
 # Instalando as dependências
-$ yarn
+$ npm i
 
 # Executanto aplicação
-$ yarn dev
+$ npm run dev
 ```
